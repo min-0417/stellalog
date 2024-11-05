@@ -1,6 +1,7 @@
 # stellalog
 
 A new Flutter project.
+프로젝트 관리 
 
 ## Getting Started
 
