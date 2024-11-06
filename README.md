@@ -1,7 +1,8 @@
 # stellalog
 
-A new Flutter project.
-프로젝트 관리 
+이 프로젝트는 stellalog_remote_copy입니다.
+프로젝트 관리 복습
+첫번째 수정
 
 ## Getting Started
 
