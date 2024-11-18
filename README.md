@@ -4,6 +4,14 @@
 프로젝트 관리 복습
 첫번째 수정
 
+=======================
+1(main):
+=======================
+2(dev):
+=======================
+3(hotfix):
+=======================
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
